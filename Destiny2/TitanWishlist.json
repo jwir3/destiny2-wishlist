@@ -8490,52 +8490,6 @@
             "tags": [
                 "GodPVP"
             ]
-        },
-        {
-            "description": "",
-            "hash": 1890332078,
-            "name": "NO",
-            "plugs": [],
-            "tags": [
-                "Controller"
-            ]
-        },
-        {
-            "description": "Masterwork: Charge Time",
-            "hash": 3867373351,
-            "name": "PvP Only for Now",
-            "plugs": [
-                [
-                    202670084
-                ],
-                [
-                    2969185026
-                ],
-                [
-                    3619207468,
-                    280464955,
-                    3198323828,
-                    3920370755
-                ],
-                [
-                    3418165135,
-                    1546637391,
-                    1754714824,
-                    834262328
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 891996636,
-            "name": "NO",
-            "plugs": [],
-            "tags": [
-                "Controller"
-            ]
         }
     ]
 }

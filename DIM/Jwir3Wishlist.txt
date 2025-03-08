@@ -4312,6 +4312,11 @@ dimwishlist:item=882778888&perks=3250034553,3142289711,711234314,699525795
 dimwishlist:item=882778888&perks=3250034553,3142289711,711234314,3719974635
 
 
+// Cruoris FR4 - NO (controller)
+//notes: tags:controller
+dimwishlist:item=891996636&perks=
+
+
 // Aurvandil FR6 - Charge Time (pve)
 //notes: Masterwork: Charge Time
 

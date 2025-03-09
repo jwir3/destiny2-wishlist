@@ -8536,6 +8536,56 @@
             "tags": [
                 "Controller"
             ]
+        },
+        {
+            "description": "Masterwork: Stability\n",
+            "hash": 2342054803,
+            "name": "Lightweight Primaries always good as workhorses",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\n",
+            "hash": 2342054803,
+            "name": "Lightweight always good as primary",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774
+                ],
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    1583705720,
+                    3523296417
+                ],
+                [
+                    1683379515,
+                    4049631843,
+                    3592538738,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

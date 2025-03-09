@@ -9022,6 +9022,30 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Masterwork: Draw Time\n",
+            "hash": 232928045,
+            "name": "Pretty Good for a Bow",
+            "plugs": [
+                [
+                    852209214
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    3365897133,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

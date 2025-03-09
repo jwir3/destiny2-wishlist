@@ -995,6 +995,15 @@ dimwishlist:item=222606050&perks=1482024992,679225683,461595545,2551157718
 dimwishlist:item=222606050&perks=1482024992,679225683,461595545,23371658
 
 
+// Under Your Skin - Pretty Good for a Bow (pve)
+//notes: Masterwork: Draw Time
+ tags:pve
+dimwishlist:item=232928045&perks=852209214,3429800428,3523746922,3365897133
+dimwishlist:item=232928045&perks=852209214,3429800428,3523746922,1551736345
+dimwishlist:item=232928045&perks=852209214,3429800428,201365942,3365897133
+dimwishlist:item=232928045&perks=852209214,3429800428,201365942,1551736345
+
+
 // Nezarec's Whisper - Defense Only Glaive (pve)
 //notes: Masterwork: Shield Duration, Handling, Reload tags:pve
 dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692

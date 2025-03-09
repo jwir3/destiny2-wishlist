@@ -1362,6 +1362,11 @@ dimwishlist:item=392008588&perks=839105230,3142289711,424370782,2939589096
 dimwishlist:item=392008588&perks=839105230,3142289711,424370782,4290541820
 
 
+// Speleologist - NO (controller)
+//notes: tags:controller
+dimwishlist:item=412251536&perks=
+
+
 // Insurmountable - Best Void Sidearm (pve)
 //notes: MW: Reload tags:pve
 dimwishlist:item=414045521&perks=4090651448,3230963543,776531651,2048641572
@@ -2051,6 +2056,13 @@ dimwishlist:item=484515708&perks=1840239774,679225683,1523832109,4104185692
 dimwishlist:item=484515708&perks=1840239774,679225683,1523832109,3215448563
 dimwishlist:item=484515708&perks=1840239774,679225683,1523832109,3007133316
 dimwishlist:item=484515708&perks=1840239774,679225683,1523832109,3299896859
+
+
+// Terminus Horizon - Good Stats Except Reload (pve)
+//notes: Masterwork: Reload tags:pve
+dimwishlist:item=487205709&perks=839105230,3230963543,247725512,365154968
+dimwishlist:item=487205709&perks=839105230,3230963543,3400784728,365154968
+dimwishlist:item=487205709&perks=839105230,3230963543,3523296417,365154968
 
 
 // Positive Outlook - Lethal in PvP (god-pvp)

@@ -8857,6 +8857,39 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 412251536,
+            "name": "NO",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload",
+            "hash": 487205709,
+            "name": "Good Stats Except Reload",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    247725512,
+                    3400784728,
+                    3523296417
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

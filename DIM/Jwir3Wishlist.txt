@@ -5633,6 +5633,14 @@ dimwishlist:item=1453235079&perks=1392496348,3142289711,2938480696,23371658
 dimwishlist:item=1453235079&perks=1392496348,3142289711,2938480696,2551157718
 
 
+// Nasreddin - Ok, not worth chasing (pve)
+//notes: Masterwork: Impact tags:pve
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=1456017061&perks=3666208348,269888150,3592538738,3708227201
+dimwishlist:item=1456017061&perks=3666208348,269888150,3592538738,3913600130
+
+
 // Without Remorse - Really Good Shotgun (god-pvp)
 //notes: Masterwork: Range or Handling
  tags:god-pvp
@@ -23845,6 +23853,11 @@ dimwishlist:item=3776430252&perks=839105230,1561002382,3619207468,1134488199
 dimwishlist:item=3776430252&perks=839105230,1561002382,3619207468,2904194311
 dimwishlist:item=3776430252&perks=839105230,1561002382,3198323828,1134488199
 dimwishlist:item=3776430252&perks=839105230,1561002382,3198323828,2904194311
+
+
+// Ill Omen - NO (controller)
+//notes: tags:controller
+dimwishlist:item=3794274730&perks=
 
 
 // Sovereignty - Worth it to have around, but overhyped (pve)

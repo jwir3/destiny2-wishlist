@@ -8586,6 +8586,51 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2563668388,
+            "name": "Nothing Unique",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3593598010,
+            "name": "Not Worth Chasing",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload",
+            "hash": 3830941962,
+            "name": "Mediocre",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3230963543,
+                    106909392
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    3966416502,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

@@ -9181,6 +9181,57 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Masterwork: Velocity or Black Radius",
+            "hash": 3175851496,
+            "name": "Nothing Really Stands Out",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346,
+                    1996142143
+                ],
+                [
+                    3977735242,
+                    406461158
+                ],
+                [
+                    957782887,
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\n",
+            "hash": 3175851496,
+            "name": "Ok, Can get 9 rockets",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2869569095,
+                    2308090567
+                ],
+                [
+                    3927722942,
+                    1167468626,
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

@@ -5827,6 +5827,14 @@ dimwishlist:item=1526296434&perks=1482024992,1885400500,2014892510,2923251173
 dimwishlist:item=1555959830&perks=
 
 
+// Recurrent Impact - Add-Clear Only (pve)
+//notes: Masterwork: Reload tags:pve
+dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,4245865861,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,4245865861,1171887445
+
+
 // Retrofuturist - NO (controller)
 //notes: tags:controller
 dimwishlist:item=1612781792&perks=
@@ -8056,6 +8064,11 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3523296417,2978966579
 dimwishlist:item=1959650777&perks=3525010810,3796465595,3523296417,344235611
 dimwishlist:item=1959650777&perks=3525010810,3796465595,1906147653,2978966579
 dimwishlist:item=1959650777&perks=3525010810,3796465595,1906147653,344235611
+
+
+// Qua Xaphan V - NO (controller)
+//notes: tags:controller
+dimwishlist:item=1975125963&perks=
 
 
 // Reckless Oracle - Great Gun (god-pve)

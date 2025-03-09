@@ -8769,6 +8769,39 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1975125963,
+            "name": "NO",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload",
+            "hash": 1572896086,
+            "name": "Add-Clear Only",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

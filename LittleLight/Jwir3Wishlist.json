@@ -9740,6 +9740,15 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2922749929,
+            "name": "NO (Anti-Vorpal, but for Everything)",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
         }
     ]
 }

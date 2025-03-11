@@ -18220,6 +18220,11 @@ dimwishlist:item=2913577176&perks=1482024992,106909392,191144788,1194056669
 dimwishlist:item=2913577176&perks=1482024992,106909392,191144788,3955464425
 
 
+// Semiotician - NO (Anti-Vorpal, but for Everything) (controller)
+//notes: tags:controller
+dimwishlist:item=2922749929&perks=
+
+
 // Adhortative - Incandescent Vehicle (god-pve)
 //notes: MW: Reload tags:god-pve
 dimwishlist:item=2993554824&perks=839105230,3230963543,243981275,4293542123

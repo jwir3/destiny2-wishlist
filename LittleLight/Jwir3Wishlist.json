@@ -9565,6 +9565,31 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Column 1: Full Bore, Hammer-Forged Rifling\nMasterwork: Range",
+            "hash": 4100775158,
+            "name": "Great PvP Roll",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    679225683
+                ],
+                [
+                    699525795,
+                    1428297954
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }

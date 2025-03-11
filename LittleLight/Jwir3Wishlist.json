@@ -9749,6 +9749,123 @@
             "tags": [
                 "Controller"
             ]
+        },
+        {
+            "description": "Masterwork: Reload, Range\n",
+            "hash": 5159537,
+            "name": "Headstone Vehicle",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    679225683,
+                    3230963543
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Range, Handling",
+            "hash": 5159537,
+            "name": "Dueling PvP VERY RARE ROLL",
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    1885400500,
+                    679225683,
+                    1561002382
+                ],
+                [
+                    2272927194
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Range, Handling",
+            "hash": 5159537,
+            "name": "Dueling PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    679225683,
+                    1561002382
+                ],
+                [
+                    2779035018,
+                    1631667848,
+                    968510818,
+                    1821614984,
+                    1645158859
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "MW: Range, Handling\n\nTricorn for kill-chaining (keep in mind that you do not care about getting to Tricorn x2, merely getting a kill with the weapon gives 15% dmg, which is the important part). ",
+            "hash": 5159537,
+            "name": "Kill Chaining",
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    1885400500,
+                    679225683,
+                    1561002382
+                ],
+                [
+                    2272927194,
+                    2779035018,
+                    1631667848,
+                    968510818,
+                    1821614984,
+                    1645158859
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }

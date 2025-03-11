@@ -9713,6 +9713,33 @@
             "tags": [
                 "Controller"
             ]
+        },
+        {
+            "description": "Masterwork: Reload",
+            "hash": 2448907086,
+            "name": "Innate Tracking, Can get 2 in the mag",
+            "plugs": [
+                [
+                    1844523823,
+                    3809316345,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    951095735,
+                    2869569095
+                ],
+                [
+                    2284787283
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

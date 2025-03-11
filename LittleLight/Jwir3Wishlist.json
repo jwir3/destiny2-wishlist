@@ -9423,6 +9423,34 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Masterwork: Charge Time, Reload, Handling",
+            "hash": 2450049485,
+            "name": "Best LFR If the Meta Changes",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    689005463
+                ],
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    3078487919,
+                    1771339417,
+                    395388285,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

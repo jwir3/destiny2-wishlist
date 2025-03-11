@@ -10935,6 +10935,11 @@ dimwishlist:item=2226158470&perks=1392496348,1885400500,3198323828,1748774930
 dimwishlist:item=2226158470&perks=1392496348,1885400500,3198323828,2387244414
 
 
+// Roar of the Bear - NO (controller)
+//notes: tags:controller
+dimwishlist:item=2231910050&perks=
+
+
 // Fugue-55 - Good for DPS (god-pve)
 //notes: MW: Stability tags:god-pve
 dimwishlist:item=2233545123&perks=1840239774,106909392,1354429876,1771339417

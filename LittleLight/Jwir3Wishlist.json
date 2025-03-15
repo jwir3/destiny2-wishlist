@@ -10622,6 +10622,56 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 447296102,
+            "name": "NO",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1946491241,
+            "name": "NO",
+            "plugs": [],
+            "tags": [
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload, Blast Radius, Handling, Velocity",
+            "hash": 1218113510,
+            "name": "Pretty Good",
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810,
+                    3798852852,
+                    3809316345
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    923806249,
+                    2039302152,
+                    968510818,
+                    3422796781,
+                    2396422520,
+                    424370782
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

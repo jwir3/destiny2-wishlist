@@ -10672,6 +10672,79 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Masterwork: Range",
+            "hash": 3000847393,
+            "name": "Decent SMG",
+            "plugs": [
+                [
+                    1840239774,
+                    3661387068,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Column 1: Fluted Barrel\nColumn 2: Flared Magwell, Ricochet Rounds\nPerk 1: Demolitionist, Feeding Frenzy, Well-Rounded\nPerk 2: Golden Tricorn, Frenzy, Adrenaline Junkie \nMasterwork: Reload\n",
+            "hash": 3000847393,
+            "name": "Decent SMG",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543,
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\n",
+            "hash": 3000847393,
+            "name": "Decent SMG",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543,
+                    1885400500
+                ],
+                [
+                    2779035018,
+                    744594675
+                ],
+                [
+                    2610012052,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "description": "A list of guns I'd like.",
-    "name": "jwir3's List",
+    "name": "Jwir3Wishlist",
     "data": [
         {
             "description": "MW: Reload",
@@ -11635,6 +11635,122 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Need Accelerated Assault\nMasterwork: Reload, Handling",
+            "hash": 3421075982,
+            "name": "Very Niche DPS",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448,
+                    3048246338,
+                    111235976,
+                    1124871858
+                ],
+                [
+                    1087426260,
+                    1065371964,
+                    2420895100,
+                    1890997540
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    496047945,
+                    1089671869
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload\n",
+            "hash": 2875763009,
+            "name": "Meh",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858,
+                    1147230557,
+                    2860123632,
+                    111235976,
+                    3048246338
+                ],
+                [
+                    3839493627
+                ],
+                [
+                    3563868667,
+                    1906147653
+                ],
+                [
+                    2078520142,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload, Range, Handling\n",
+            "hash": 260532765,
+            "name": "Underwhelming",
+            "plugs": [
+                [
+                    1147230557,
+                    2860123632,
+                    111235976
+                ],
+                [
+                    1709045111,
+                    1783397184
+                ],
+                [
+                    3914874605
+                ],
+                [
+                    122204356,
+                    288411554
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload, Handling, Range\n",
+            "hash": 1402874079,
+            "name": "Chill Clip Vehicle",
+            "plugs": [
+                [
+                    2371713880,
+                    111235976,
+                    2860123632
+                ],
+                [
+                    1488599449,
+                    1783397184,
+                    1065371964,
+                    1807273211
+                ],
+                [
+                    3442762221,
+                    402033656,
+                    494941759
+                ],
+                [
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]

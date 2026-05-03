@@ -504,19 +504,25 @@
             ]
         },
         {
-            "description": "Accurized Rounds\nMW: Range",
+            "description": "Masterwork: Reload Speed\nWeapon Mod: Heavy Ammo Finder Enhancement",
             "hash": 1051949956,
-            "name": "One of the Best Archetypes",
+            "name": "PvP: S",
             "plugs": [
                 [
-                    3250034553
+                    3250034553,
+                    1147230557
                 ],
                 [
-                    2073244114
+                    1065371964
+                ],
+                [
+                    2073244114,
+                    2785334058
                 ],
                 [
                     2923251173,
-                    2748801589
+                    2748801589,
+                    1720528630
                 ]
             ],
             "tags": [
@@ -4586,9 +4592,9 @@
             ]
         },
         {
-            "description": "Reload, Range",
+            "description": "MW: Reload, Range",
             "hash": 3229982889,
-            "name": "Reload, Range",
+            "name": "PvE: A",
             "plugs": [
                 [
                     4090651448,
@@ -10267,9 +10273,9 @@
             ]
         },
         {
-            "description": "Recommended Perks:\nColumn 1: Elastic String, Polymer String\nColumn 2: Fiberglass Arrow Shaft, Straight Fletching\nPerk 1: Dragonfly, Repulsor Brace\nPerk 2: Destabilizing Rounds, Demoralize\nMasterwork: Draw Time",
+            "description": "Masterwork: Draw Time",
             "hash": 2291392465,
-            "name": "Not Bad",
+            "name": "PvE: A",
             "plugs": [
                 [
                     2801223209,
@@ -12058,6 +12064,54 @@
                     639190697,
                     2799030358,
                     4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "MW: Reload Speed\n",
+            "hash": 358190158,
+            "name": "PvE: A",
+            "plugs": [
+                [
+                    3048246338
+                ],
+                [
+                    1709045111
+                ],
+                [
+                    4223976499,
+                    424370782
+                ],
+                [
+                    2675184851,
+                    3192447905,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Range\n",
+            "hash": 358190158,
+            "name": "PvP: A",
+            "plugs": [
+                [
+                    1124871858
+                ],
+                [
+                    3267421167
+                ],
+                [
+                    2717805783
+                ],
+                [
+                    3719974635,
+                    2963273944
                 ]
             ],
             "tags": [

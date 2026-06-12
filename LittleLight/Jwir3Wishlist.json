@@ -12142,6 +12142,31 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "MW: Handling",
+            "hash": 2920548486,
+            "name": "Source: Warden of Nothing GM CA June 2026",
+            "plugs": [
+                [
+                    1124871858
+                ],
+                [
+                    1890997540
+                ],
+                [
+                    64866129
+                ],
+                [
+                    984655331
+                ],
+                [
+                    2671305723
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
